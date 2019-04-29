@@ -2,4 +2,4 @@ this is a new file!
 filename is test.
 add a hello word
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files
