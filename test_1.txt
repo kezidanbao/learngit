@@ -5,4 +5,4 @@ Git is free software.
 haaa
 hbbb
 hccc
-hddd
+creating a new branch is quick&simple
